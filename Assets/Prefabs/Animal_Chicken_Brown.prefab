@@ -1341,6 +1341,7 @@ GameObject:
   - component: {fileID: 8546480381803469858}
   - component: {fileID: 8140012573882104614}
   - component: {fileID: 9038325257025429624}
+  - component: {fileID: 2469646221572810081}
   m_Layer: 0
   m_Name: Animal_Chicken_Brown
   m_TagString: Untagged
@@ -1429,3 +1430,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 7.4143515, y: 16.16826, z: 19.415052}
   m_Center: {x: 0.53220326, y: 7.9272346, z: 1.0987904}
+--- !u!114 &2469646221572810081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8546480381519985301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e6c6dc55ac04097843860c9a16afb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
